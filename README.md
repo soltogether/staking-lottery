@@ -1,5 +1,7 @@
 # staking-lottery
 
+https://www.veed.io/view/f1da8013-662b-4b2f-bf97-0d2fd0eac4ec?panel=share
+
 to participate in always-winning staking lottery you need to do the following:
 
 Go to: https://65a0cbf107f24f803dd51dc2--cheerful-paletas-7c50d4.netlify.app/
