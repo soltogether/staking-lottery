@@ -1,6 +1,6 @@
 # staking-lottery
 
-to participate in staking always-winning lottery you need to do the following:
+to participate in always-winning staking lottery you need to do the following:
 
 Go to: https://65a0cbf107f24f803dd51dc2--cheerful-paletas-7c50d4.netlify.app/
 
