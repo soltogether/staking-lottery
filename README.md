@@ -17,3 +17,5 @@ First, you need to stake some tokens to the pool, doing that by entering stake a
 After that, you choose winning numbers for the ticket and press the 'Create Ticket' button with token amount for that ticket (e.g. 1 sol).
 
 If you press 'My ticket' button you will see your current tickets and bets. You can 'Mark ticket' with winning numbers to get the reward or raise the bet for this ticket with 'Update ticket'. Deleting the ticket will lead to release of the tokens to the stored amount, so new tickets could be purchased, or released back to the stake. 
+
+The staking pool liquidity provided by participants is staked to solana validators and the staking reward of the entire pool goes to the winning tickets.
