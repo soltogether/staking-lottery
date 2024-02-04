@@ -1,5 +1,4 @@
 # staking-lottery
-staking lottery
 
 to participate in staking always-winning lottery you need to do the following:
 
